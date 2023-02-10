@@ -1,0 +1,51 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
+    color: #757575;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.container {
+  width: 320px;
+  height: 941px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  display: block;
+}
+
+.hero {
+    background-image: linear-gradient(rgba(47, 48, 58, 0.4),
+                rgba(47, 48, 58, 0.4)),
+            url(/img/film.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 320px 941px;
+        flex-grow: 1;
+}
+
+.text {
+    font-weight: 900;
+    font-size: 33px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #ffffff;
+    
+}
