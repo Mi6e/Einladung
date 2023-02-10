@@ -32,7 +32,7 @@ h6 {
 .hero {
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url(/img/film.jpg);
+            url(../img/film.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: 320px 941px;
