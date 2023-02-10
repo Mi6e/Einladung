@@ -21,12 +21,12 @@ h6 {
 }
 
 .container {
-  width: 320px;
-  height: 941px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: 0 auto;
-  display: block;
+    width: 320px;
+    height: 941px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    display: block;
 }
 
 .hero {
@@ -47,5 +47,5 @@ h6 {
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #ffffff;
-    
+    padding-top: 367px;
 }
